@@ -1,0 +1,12 @@
+Django>=5.0,<6.0
+djangorestframework>=3.15
+djangorestframework-simplejwt>=5.3
+djangorestframework-simplejwt[crypto]
+psycopg[binary]>=3.1
+django-filter>=24.0
+gunicorn>=21.2
+python-dotenv>=1.0
+pillow
+dj-rest-auth
+django-cors-headers
+martor
